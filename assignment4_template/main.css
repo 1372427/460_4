@@ -1,0 +1,9 @@
+/* MAIN CSS FILE FOR PROJECT */
+
+svg {
+  display:block;
+}
+
+.transp {
+  fill-opacity: 0.5;
+}
